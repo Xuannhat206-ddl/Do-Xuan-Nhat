@@ -1,0 +1,17 @@
+D:\Lam\Bài 2\Bài 2\bin\Debug\net10.0-windows\Bài 2.exe
+D:\Lam\Bài 2\Bài 2\bin\Debug\net10.0-windows\Bài 2.deps.json
+D:\Lam\Bài 2\Bài 2\bin\Debug\net10.0-windows\Bài 2.runtimeconfig.json
+D:\Lam\Bài 2\Bài 2\bin\Debug\net10.0-windows\Bài 2.dll
+D:\Lam\Bài 2\Bài 2\bin\Debug\net10.0-windows\Bài 2.pdb
+D:\Lam\Bài 2\Bài 2\obj\Debug\net10.0-windows\Bài_2.Form1.resources
+D:\Lam\Bài 2\Bài 2\obj\Debug\net10.0-windows\Bài 2.csproj.GenerateResource.cache
+D:\Lam\Bài 2\Bài 2\obj\Debug\net10.0-windows\Bài 2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lam\Bài 2\Bài 2\obj\Debug\net10.0-windows\Bài 2.AssemblyInfoInputs.cache
+D:\Lam\Bài 2\Bài 2\obj\Debug\net10.0-windows\Bài 2.AssemblyInfo.cs
+D:\Lam\Bài 2\Bài 2\obj\Debug\net10.0-windows\Bài 2.csproj.CoreCompileInputs.cache
+D:\Lam\Bài 2\Bài 2\obj\Debug\net10.0-windows\Bài 2.dll
+D:\Lam\Bài 2\Bài 2\obj\Debug\net10.0-windows\refint\Bài 2.dll
+D:\Lam\Bài 2\Bài 2\obj\Debug\net10.0-windows\Bài 2.pdb
+D:\Lam\Bài 2\Bài 2\obj\Debug\net10.0-windows\Bài 2.genruntimeconfig.cache
+D:\Lam\Bài 2\Bài 2\obj\Debug\net10.0-windows\ref\Bài 2.dll
+D:\Lam\Bài 2\Bài 2\obj\Debug\net10.0-windows\Bài 2.csproj.Up2Date
